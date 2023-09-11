@@ -1,0 +1,22 @@
+Name of the Project: Local Bingo (pending)
+
+Stack: MERN
+
+Description: Have you ever heard someone in your life say the same phrase or do the same thing so many times that you start checking it off an imaginary Bingo board? Have you ever wanted to actually have a chance to play along? Well, look no further than Local Bingo. Play with your friends, using the prompts that *you* want to use (for me, the prompts are based off of my church), and keep track of score with a leaderboard.
+
+MVP:
+	- Users can create an account and log into/out of it
+	- Users can edit their profile and add a fun fact if desired
+	- Users can play bingo, and a win will automatically be detected
+	- User bingos will be added to their profile and to the leaderboard
+	- Prompts with full CRUD
+	- Links/buttons for navigating around the project
+	- Protected routes other than login screen
+
+Backlog:
+	- Roles for different types of users. Admin account.
+	- User profile pictures
+	- Make application responsive for mobile users
+	- Implementing a CSS framework
+
+GitHub Repo: https://github.com/Kyle-Rachman/Local-Bingo

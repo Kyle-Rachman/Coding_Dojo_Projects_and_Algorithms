@@ -1,0 +1,14 @@
+This project will consist of 3 members:
+    Evan Schultz, Kyle Rachman, David Kral
+    Evan and David will be handling the back end, Kyle will be handling the front end.
+
+The MVP of this project:
+    This project will implement CRUD in the user database.
+    This project will implement CRUD in the interests database in a many-to-many connection in SQL.
+    This project will allow users to select their interests.
+    Every 24 hours, the project pulls in the latest journals into the database, and emails them to the users. 
+    The API will return a list of 5-10 of those interests, provide a summary, and a link.
+
+Future features if time allows:
+    If interest is inactive for >24 hours, stop pulling summaries and adding to database.
+    If debug = true, ignore above, check if database has things for that interest within the last 24 hours, if it doesn't run.
